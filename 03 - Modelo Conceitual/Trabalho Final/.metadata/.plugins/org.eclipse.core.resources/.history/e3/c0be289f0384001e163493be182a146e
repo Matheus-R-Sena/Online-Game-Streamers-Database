@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:eer="eer" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
-  <eer:Schema xmi:id="_9PoNYIPtEe6KF9Cyns293A"/>
-  <notation:Diagram xmi:id="_9QOqUIPtEe6KF9Cyns293A" type="Eer" element="_9PoNYIPtEe6KF9Cyns293A" name="StreamersBD.eer" measurementUnit="Pixel">
-    <styles xmi:type="notation:DiagramStyle" xmi:id="_9QOqUYPtEe6KF9Cyns293A"/>
-  </notation:Diagram>
-</xmi:XMI>
