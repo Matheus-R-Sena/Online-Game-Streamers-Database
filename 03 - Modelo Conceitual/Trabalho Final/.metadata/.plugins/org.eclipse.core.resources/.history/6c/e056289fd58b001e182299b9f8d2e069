@@ -1329,5 +1329,17 @@
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vxJINIuyEe6ftP-vKbG1-A" id="(0.9338842975206612,0.5)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vxJINYuyEe6ftP-vKbG1-A" id="(0.15476190476190477,0.475)"/>
     </edges>
+    <edges xmi:type="notation:Edge" xmi:id="_2sfwwIuyEe6ftP-vKbG1-A" type="4006" element="_2sfJsIuyEe6ftP-vKbG1-A" source="_FICRcYusEe6ftP-vKbG1-A" target="_rKSygIuqEe6ftP-vKbG1-A">
+      <children xmi:type="notation:DecorationNode" xmi:id="_2sfwxIuyEe6ftP-vKbG1-A" type="6006">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_2sfwxYuyEe6ftP-vKbG1-A" x="5" y="5"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_2sfwxouyEe6ftP-vKbG1-A" type="6007">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_2sfwx4uyEe6ftP-vKbG1-A" x="5" y="5"/>
+      </children>
+      <styles xmi:type="notation:RoutingStyle" xmi:id="_2sfwwYuyEe6ftP-vKbG1-A"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_2sfwwouyEe6ftP-vKbG1-A" fontName="Segoe UI"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2sfww4uyEe6ftP-vKbG1-A" points="[42, 0, -20, 189]$[83, 0, 21, 189]$[63, -179, 1, 10]"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2shl8IuyEe6ftP-vKbG1-A" id="(0.8363636363636363,0.9821428571428571)"/>
+    </edges>
   </notation:Diagram>
 </xmi:XMI>
