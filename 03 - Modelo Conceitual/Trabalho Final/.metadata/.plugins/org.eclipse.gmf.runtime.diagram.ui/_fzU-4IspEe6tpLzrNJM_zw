@@ -1,6 +1,6 @@
-#Sat Nov 25 18:00:14 BRT 2023
-viewport.x=851
-zoom=1.0
+#Sun Nov 26 22:55:40 BRT 2023
+viewport.x=562
+zoom=0.75
 print.margin.right=0.5
 rulergrid.rulerunit=1
 rulergrid.snaptogrid=true
@@ -16,4 +16,4 @@ rulergrid.gridlevel=true
 print.margin.top=0.5
 print.useMillim=true
 print.usePortrait=true
-viewport.y=320
+viewport.y=-15

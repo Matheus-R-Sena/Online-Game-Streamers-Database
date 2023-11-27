@@ -1,0 +1,18 @@
+Dúvidas:
+
+1 - É permitido criar uma chave primaria para uma entidades que não está em evidência no requisito?
+	1.1 - Um pais pode possuir mais de uma moedas? (O requisito não deixou muito claro).
+
+2 - No caso do canal é recomendado utilizar entidade associativa ou relacionamento ternario?
+
+3 - Um canal pode ser patrocinado por apenas uma única empresa?
+
+4 - Uma empresa pode ser multinacional? se sim, ela será identificada por diferentes tuplas na tabela empresa ou por um relacionamento N:N com o país?
+	4.1 - No caso do ID_NACIONAL como garanto que ele será unico de acordo com a nacionalidade da empresa?
+	
+5 - É obrigatório fazer especialização para entidades com mais de um atributo similares?
+
+6 - Relacionamento de membro com nivel de membro?
+
+7 - Como garantir que o numero sequencial do comentário de cada video mantenha a ordem correta?
+

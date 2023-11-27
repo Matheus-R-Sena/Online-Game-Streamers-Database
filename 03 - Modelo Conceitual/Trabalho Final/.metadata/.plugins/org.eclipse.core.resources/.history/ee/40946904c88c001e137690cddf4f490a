@@ -87,7 +87,7 @@
     <nodes xmi:type="eer:Relationship" xmi:id="_9MI7wozFEe6rrqk2QsYWRg" name="Copy_1_Possui" isIdentifier="true" relationshipLink="_9MKw94zFEe6rrqk2QsYWRg"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_9MI7w4zFEe6rrqk2QsYWRg" name="Copy_1_vd_data_hora" type="DISCRIMINATOR" AttributeLinkTarget="_9MKxAIzFEe6rrqk2QsYWRg"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_9MI7xIzFEe6rrqk2QsYWRg" name="Copy_1_TITULO_VIDEO" type="DISCRIMINATOR" AttributeLinkTarget="_9MKxBozFEe6rrqk2QsYWRg"/>
-    <nodes xmi:type="eer:AssociativeEntity" xmi:id="_9MI7xYzFEe6rrqk2QsYWRg" name="associado">
+    <nodes xmi:type="eer:AssociativeEntity" xmi:id="_9MI7xYzFEe6rrqk2QsYWRg" name="Copy_1_associado">
       <contains xmi:type="eer:Relationship" xmi:id="_9MI7xozFEe6rrqk2QsYWRg" name="associado" relationshipLink="_9MKxDIzFEe6rrqk2QsYWRg"/>
     </nodes>
     <nodes xmi:type="eer:Entity" xmi:id="_9MI7x4zFEe6rrqk2QsYWRg" name="Copy_1_Doação" AttributeLinkSource="_9MKxFYzFEe6rrqk2QsYWRg _9MLYBYzFEe6rrqk2QsYWRg _9MLYC4zFEe6rrqk2QsYWRg"/>
@@ -101,7 +101,7 @@
     <nodes xmi:type="eer:Attribute" xmi:id="_6c0ZUIzGEe6rrqk2QsYWRg" name="num_seq" AttributeLinkTarget="_6c4qxozGEe6rrqk2QsYWRg"/>
     <nodes xmi:type="eer:Entity" xmi:id="_KOGgwIzHEe6rrqk2QsYWRg" name="Doação" relationshipLink="_OexrwIzHEe6rrqk2QsYWRg"/>
     <nodes xmi:type="eer:Relationship" xmi:id="_NdGzYIzHEe6rrqk2QsYWRg" name="contem" relationshipLink="_NdGzZ4zHEe6rrqk2QsYWRg _OexrwIzHEe6rrqk2QsYWRg"/>
-    <nodes xmi:type="eer:Attribute" xmi:id="_uQnswIzHEe6rrqk2QsYWRg" name="data_hora" type="IDENTIFIER" AttributeLinkTarget="_uQtMUIzHEe6rrqk2QsYWRg"/>
+    <nodes xmi:type="eer:Attribute" xmi:id="_uQnswIzHEe6rrqk2QsYWRg" name="" type="IDENTIFIER" AttributeLinkTarget="_uQtMUIzHEe6rrqk2QsYWRg"/>
     <links xmi:type="eer:AttributeLink" xmi:id="_ir_1IIspEe6tpLzrNJM_zw" source="_ir-nAIspEe6tpLzrNJM_zw" target="_ir_OEIspEe6tpLzrNJM_zw"/>
     <links xmi:type="eer:AttributeLink" xmi:id="_isAcMIspEe6tpLzrNJM_zw" source="_ir-nAIspEe6tpLzrNJM_zw" target="_ir_OEYspEe6tpLzrNJM_zw"/>
     <links xmi:type="eer:AttributeLink" xmi:id="_isAcNospEe6tpLzrNJM_zw" source="_ir-nAIspEe6tpLzrNJM_zw" target="_ir_OEospEe6tpLzrNJM_zw"/>
@@ -846,7 +846,7 @@
       <styles xmi:type="notation:DescriptionStyle" xmi:id="_ke6XkozGEe6rrqk2QsYWRg"/>
       <styles xmi:type="notation:FontStyle" xmi:id="_ke6Xk4zGEe6rrqk2QsYWRg" fontName="Segoe UI"/>
       <styles xmi:type="notation:FillStyle" xmi:id="_ke6XlIzGEe6rrqk2QsYWRg"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ke6XlYzGEe6rrqk2QsYWRg" x="1755" y="650"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ke6XlYzGEe6rrqk2QsYWRg" x="1765" y="650"/>
     </children>
     <children xmi:type="notation:Node" xmi:id="_u6AdcYzGEe6rrqk2QsYWRg" type="2004" element="_u6AdcIzGEe6rrqk2QsYWRg">
       <children xmi:type="notation:DecorationNode" xmi:id="_u6AddozGEe6rrqk2QsYWRg" type="5005"/>
