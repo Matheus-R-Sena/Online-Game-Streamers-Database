@@ -15,4 +15,9 @@ Dúvidas:
 6 - Relacionamento de membro com nivel de membro?
 
 7 - Como garantir que o numero sequencial do comentário de cada video mantenha a ordem correta?
+	7.1 - ID_SEQ depende do vídeo, como assim?
+
+8 - Estamos com muita dúvida no mecanismo da plataforma
+
+9 - Quem faz o cometário é um usuário da plataforma ou um membro?
 
